@@ -2,5 +2,4 @@
 
 # dependencies
 /node_modules
-/config/secret_key.json
 /sources
